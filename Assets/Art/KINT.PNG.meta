@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: e4f81bd6941dbec4588995f99be8a14c
+guid: 4f2533713a12a7c47ac886595d951f78
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 858049164127343513
-    second: IMG_0045_0
-  - first:
-      213: -4851656314055743958
-    second: IMG_0045_1
-  - first:
-      213: -164858273472147462
-    second: IMG_0045_2
-  - first:
-      213: -1816332812922118516
-    second: IMG_0045_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +39,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -122,101 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_0045_0
+      name: KINT_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99391ab2b2768eb00800000000000000
-      internalID: 858049164127343513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0045_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a262d6c99447bacb0800000000000000
-      internalID: -4851656314055743958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0045_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aff8863164e46bdf0800000000000000
-      internalID: -164858273472147462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0045_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8e14e31ee61bc6e0800000000000000
-      internalID: -1816332812922118516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0045_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
+        y: 283
+        width: 80
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,8 +125,162 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7ed4ea0cb8bbce45b30ab7daa157b0c
-      internalID: -1068553554
+      spriteID: 095ca0ecfaa26da4da1660b1d2569edd
+      internalID: -1721437845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 283
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9303111693b88747b8272112cd49592
+      internalID: -628397508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0228b2ccd1742cb468a62dd29322f2da
+      internalID: -1335457878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 189
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2d3e391031ec4cbb2e3bbae210401
+      internalID: 1979820591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344e02198c569a45b50e34610f8101c
+      internalID: -2107339951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb2f806da425c46979527ebf1346b6
+      internalID: -1332184271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422edd4607580b40b0144331d4ded4a
+      internalID: -1833934046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KINT_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c667e55aaa414c91627edf3633a56
+      internalID: 109215148
       vertices: []
       indices: 
       edges: []
@@ -235,7 +289,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8a030f9c50cfecf4895dd3dfb939cee2
+    spriteID: 3d6f1ee0b3e33474aa8885e2695c8725
     internalID: 0
     vertices: []
     indices: 
@@ -245,11 +299,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IMG_0045_0: 858049164127343513
-      IMG_0045_1: -4851656314055743958
-      IMG_0045_2: -164858273472147462
-      IMG_0045_3: -1816332812922118516
-      IMG_0045_4: -1068553554
+      KINT_0: -1721437845
+      KINT_1: -628397508
+      KINT_2: -1335457878
+      KINT_3: 1979820591
+      KINT_4: -2107339951
+      KINT_5: -1332184271
+      KINT_6: -1833934046
+      KINT_7: 109215148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
